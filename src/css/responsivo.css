@@ -1,0 +1,19 @@
+@media(max-width: 1280px){
+    .titulo h1{
+        font-size: 8em;
+        margin-top: 30%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media(max-width: 425px){
+    .titulo h1{
+        font-size: 6em;
+        margin-top: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

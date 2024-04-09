@@ -3,7 +3,7 @@ body{
     color: white;
 }
 
-h1{
+.titulo h1{
     font-size: 8em;
     text-align: center;
     align-items: center;
